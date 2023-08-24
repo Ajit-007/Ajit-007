@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit-007&label=Profile%20views&color=0e75b6&style=flat" alt="ajit-007" /> </p>
 
-- 🌱 I’m currently learning **EagleCAD, Embedded C, LabVIEW.**
+- 🌱 I’m currently learning **EagleCAD, Embedded C, LabVIEW & VHDL.**
 
 - 👯 I’m looking to collaborate on **various VLSI projects.**
 
